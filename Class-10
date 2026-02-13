@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Biology Learning Hub - K.S. KIRAN KUMAR SIR</title>
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<header>
+  <h1>🌿 Biology Learning Hub</h1>
+  <img src="sir.jpg" alt="K.S. KIRAN KUMAR SIR" class="sir-photo">
+  <h2>K.S. KIRAN KUMAR SIR</h2>
+  <p>Biology Study Materials (Class 6 – 10)</p>
+</header>
+
+<section class="about">
+  <h3>Message of Respect</h3>
+  <p>
+    This website is created as a small token of gratitude 
+    for your dedication and hard work in preparing Biology PDFs 
+    for students from Class 6 to 10.
+    Thank you Sir for inspiring us every day.
+  </p>
+</section>
+
+<section class="classes">
+  <h3>📚 Select Your Class</h3>
+
+  <div class="card">
+    <h4>Class 6</h4>
+    <a href="#">View PDFs</a>
+  </div>
+
+  <div class="card">
+    <h4>Class 7</h4>
+    <a href="#">View PDFs</a>
+  </div>
+
+  <div class="card">
+    <h4>Class 8</h4>
+    <a href="#">View PDFs</a>
+  </div>
+
+  <div class="card">
+    <h4>Class 9</h4>
+    <a href="#">View PDFs</a>
+  </div>
+
+  <div class="card">
+    <h4>Class 10</h4>
+    <a href="#">View PDFs</a>
+  </div>
+
+</section>
+
+<footer>
+  <p>© 2026 Biology Learning Hub | Created with Respect by Nandu</p>
+</footer>
+
+</body>
+</html>

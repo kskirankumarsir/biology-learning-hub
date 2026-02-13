@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #a8e063, #56ab2f);
+  text-align: center;
+}
+
+header {
+  background: #1b5e20;
+  color: white;
+  padding: 20px;
+}
+
+.sir-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 10px;
+  border: 4px solid white;
+}
+
+.about {
+  background: white;
+  margin: 20px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.classes {
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  margin: 15px auto;
+  padding: 15px;
+  width: 250px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px gray;
+}
+
+.card a {
+  text-decoration: none;
+  color: white;
+  background: #1b5e20;
+  padding: 8px 15px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.card a:hover {
+  background: #2e7d32;
+}
+
+footer {
+  background: #1b5e20;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
